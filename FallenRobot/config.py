@@ -9,14 +9,14 @@ class Config(object):
 
     DATABASE_URL = "postgres://lzsdumzs:hVxl2M4cZyLocKG4CUSGtuUqED44MZRw@tiny.db.elephantsql.com/lzsdumzs"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (5673255098)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001699263737)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb://ud7kcz6totsvepy86bb2:d4gmTfoBbpzDmNLzItwG@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b0ojwj6pcvvj30u?replicaSet=rs0"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://te.legra.ph/file/d39e96c34b7871a8dd0f9.jpg"
 
-    SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "+NzwGhy6WcIYwMTVl"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = "5775428780:AAFUhpHCqSj2CVr4fghHM80iW3Kq-fTP-L8"  # Get bot token from @BotFather on Telegram
 
