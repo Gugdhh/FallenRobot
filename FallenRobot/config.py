@@ -5,11 +5,11 @@ class Config(object):
     API_ID = 6
     API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
 
-    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "6TTOZ2XM4I1MUZHQ"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = "postgres://lzsdumzs:hVxl2M4cZyLocKG4CUSGtuUqED44MZRw@tiny.db.elephantsql.com/lzsdumzs"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = ()  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (5673255098)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb://ud7kcz6totsvepy86bb2:d4gmTfoBbpzDmNLzItwG@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b0ojwj6pcvvj30u?replicaSet=rs0"  # Get ths value from cloud.mongodb.com
 
