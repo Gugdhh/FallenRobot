@@ -20,7 +20,7 @@ class Config(object):
 
     TOKEN = "5775428780:AAFUhpHCqSj2CVr4fghHM80iW3Kq-fTP-L8"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "http://api.timezonedb.com/v2.1/list-time-zone"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID =  5868178288 # User id of your telegram account (Must be integer)
 
