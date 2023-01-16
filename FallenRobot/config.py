@@ -29,7 +29,7 @@ class Config(object):
     DRAGONS = [5868178288]  # User id of sudo users
     DEV_USERS = []  # User id of dev users
     DEMONS = []  # User id of support users
-    TIGERS = []  # User id of tiger users
+    TIGERS = [5919535585]  # User id of tiger users
     WOLVES = []  # User id of whitelist users
 
     ALLOW_CHATS = True
